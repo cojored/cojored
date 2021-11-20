@@ -1,7 +1,3 @@
 ### Hi there 👋
 
-I am cojored I have made multiple discord bots I own https://heppcat.com
-I also have made multiple websites. I have an api for my currency bot.
-```
-I also know how to make cool boxes just add ```LANGUAGE NAME and end it with ```
-```
+I am a developer that mainly works with JavaScript I also know python and I plan on learning C.
