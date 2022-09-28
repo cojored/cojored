@@ -33,9 +33,7 @@
 <a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50"/></a>
 
-# Stats
-# replace username with your own or change theme
-## Stats📈
+# Stats <img src="https://cdn-icons-png.flaticon.com/512/1170/1170616.png" width="29px">
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cojored&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="cojored" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cojored&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="cojored" />
