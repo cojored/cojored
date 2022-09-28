@@ -5,7 +5,7 @@
   <td valign="center">
     🎓 I am currently pursuing my <b>Associates's in Computer Science Engineering</b>.
     <br>
-    🌱 I am currently learning <b>Java</b> and I am currently profficent in <b>Javascript, Typescript, and Python</b>.
+    🌱 I am currently learning <b>Java</b> and I am currently proficent in <b>Javascript, Typescript, and Python</b>.
     <br>
     🎯 My Goal is to bring your bots to <b>life</b>.
   <td>
