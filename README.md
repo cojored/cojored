@@ -9,7 +9,7 @@
     <br>
     🎯 My Goal is to bring your bots to <b>life</b>.
   <td>
-<a href="https://app.daily.dev/cojored"><img src="https://api.daily.dev/devcards/17efe01d1673415ea4c8574349d87b25.png?r=qae" width="400" alt="cojored's Dev Card"/></a>
+<a href="https://app.daily.dev/cojored"><img src="https://github.com/cojored/cojored/blob/master/devcard.svg" width="400" alt="cojored's Dev Card"/></a>
   </td>
 </tr>
 </table>
