@@ -5,9 +5,9 @@
   <td valign="center">
     🎓 I am currently pursuing my <b>Associates's in Computer Science Engineering</b>.
     <br>
-    🌱 I am currently learning <b>Java</b> and I am currently proficent in <b>Javascript, Typescript, and Python</b>.
+    🌱 I am currently proficent in <b>Javascript, Typescript, Python, and Java</b>.
     <br>
-    🎯 My Goal is to bring your bots to <b>life</b>.
+    🎯 My Goal is to bring your ideas to <b>life</b>.
   <td>
 <a href="https://app.daily.dev/cojored"><img src="https://github.com/cojored/cojored/blob/master/devcard.svg" width="400" alt="cojored's Dev Card"/></a>
   </td>
