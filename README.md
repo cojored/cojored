@@ -13,7 +13,6 @@
   </td>
 </tr>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=cojored&theme=dracula&hide_border=true"/>
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <a href="https://discord.com/users/694644198531661844"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" height="100"/></a>
