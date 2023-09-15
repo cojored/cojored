@@ -35,6 +35,5 @@
 # Stats <img src="https://cdn-icons-png.flaticon.com/512/1170/1170616.png" width="29px">
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cojored&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="cojored" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cojored&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="cojored" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cojored&theme=dracula&hide_border=true" alt="cojored" />
 </p>
